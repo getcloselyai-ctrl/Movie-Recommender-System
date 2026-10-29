@@ -30,6 +30,10 @@ streamlit run app.py
 
 Obtain an API key from [The Movie Database (TMDB)](https://www.themoviedb.org/), then configure it as required by your application.
 
+# Live Demo
+
+[View Application](https://heart-disease-risk-predictor-ad.streamlit.app/)
+
 # Author
 
 **getcloselyai-ctrl**
